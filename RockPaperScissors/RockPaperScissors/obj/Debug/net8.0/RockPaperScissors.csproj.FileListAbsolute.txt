@@ -1,0 +1,15 @@
+c:\Users\geo-b\Documents\GitHub\BoardGamesOnline\RockPaperScissors\bin\Debug\net8.0\RockPaperScissors.exe
+c:\Users\geo-b\Documents\GitHub\BoardGamesOnline\RockPaperScissors\bin\Debug\net8.0\RockPaperScissors.deps.json
+c:\Users\geo-b\Documents\GitHub\BoardGamesOnline\RockPaperScissors\bin\Debug\net8.0\RockPaperScissors.runtimeconfig.json
+c:\Users\geo-b\Documents\GitHub\BoardGamesOnline\RockPaperScissors\bin\Debug\net8.0\RockPaperScissors.dll
+c:\Users\geo-b\Documents\GitHub\BoardGamesOnline\RockPaperScissors\bin\Debug\net8.0\RockPaperScissors.pdb
+c:\Users\geo-b\Documents\GitHub\BoardGamesOnline\RockPaperScissors\obj\Debug\net8.0\RockPaperScissors.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\geo-b\Documents\GitHub\BoardGamesOnline\RockPaperScissors\obj\Debug\net8.0\RockPaperScissors.AssemblyInfoInputs.cache
+c:\Users\geo-b\Documents\GitHub\BoardGamesOnline\RockPaperScissors\obj\Debug\net8.0\RockPaperScissors.AssemblyInfo.cs
+c:\Users\geo-b\Documents\GitHub\BoardGamesOnline\RockPaperScissors\obj\Debug\net8.0\RockPaperScissors.csproj.CoreCompileInputs.cache
+c:\Users\geo-b\Documents\GitHub\BoardGamesOnline\RockPaperScissors\obj\Debug\net8.0\RockPaperScissors.sourcelink.json
+c:\Users\geo-b\Documents\GitHub\BoardGamesOnline\RockPaperScissors\obj\Debug\net8.0\RockPaperScissors.dll
+c:\Users\geo-b\Documents\GitHub\BoardGamesOnline\RockPaperScissors\obj\Debug\net8.0\refint\RockPaperScissors.dll
+c:\Users\geo-b\Documents\GitHub\BoardGamesOnline\RockPaperScissors\obj\Debug\net8.0\RockPaperScissors.pdb
+c:\Users\geo-b\Documents\GitHub\BoardGamesOnline\RockPaperScissors\obj\Debug\net8.0\RockPaperScissors.genruntimeconfig.cache
+c:\Users\geo-b\Documents\GitHub\BoardGamesOnline\RockPaperScissors\obj\Debug\net8.0\ref\RockPaperScissors.dll
